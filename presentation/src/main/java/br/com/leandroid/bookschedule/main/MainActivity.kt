@@ -1,7 +1,8 @@
-package br.com.leandroid.bookschedule
+package br.com.leandroid.bookschedule.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import br.com.leandroid.bookschedule.R
 import br.com.leandroid.logger.Logger
 
 
